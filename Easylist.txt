@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LywdDmPq9l+BHrtG7IsJzQ
-! Version: 202101050431
+! Checksum: e7XHnulSzjVBllaqUO0Tsw
+! Version: 202101050440
 ! Title: EasyList
-! Last modified: 05 Jan 2021 04:30 UTC
+! Last modified: 05 Jan 2021 04:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18015,6 +18015,7 @@ _popunder+$popup
 ##.ModeLayout-ad
 ##.MspAd
 ##.NAPmarketAdvert
+##.NA_ad
 ##.NGOLocalFooterAd
 ##.NavBarAd
 ##.NewsAds
