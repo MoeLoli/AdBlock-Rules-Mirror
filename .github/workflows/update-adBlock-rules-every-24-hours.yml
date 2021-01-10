@@ -48,6 +48,12 @@ jobs:
         with: 
           file-url: https://adaway.org/hosts.txt
           file-name: AdAway-default-blocklist.txt
+
+      - name: CJX annoyance
+        uses: carlosperate/download-file-action@v1.0.0
+        with: 
+          file-url: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+          file-name: CJX-annoyance.txt
       
       - name: Commit Changes
         run: |
