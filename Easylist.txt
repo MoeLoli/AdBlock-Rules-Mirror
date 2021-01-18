@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1/vGKTUBCkxrNw/Vi0wCVg
-! Version: 202101170031
+! Checksum: OL7J2fiCgQKN9UFNUhKkSA
+! Version: 202101180031
 ! Title: EasyList
-! Last modified: 17 Jan 2021 00:31 UTC
+! Last modified: 18 Jan 2021 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -27525,6 +27525,7 @@ _popunder+$popup
 ##.refreshAds
 ##.refreshInarticleAd
 ##.refreshable_ad
+##.region-ad-bottom-leaderboard
 ##.region-ad-right
 ##.region-ad-top
 ##.region-ads
@@ -55519,8 +55520,8 @@ blackcaps.co.nz##.commercial-partners
 telegraph.co.uk##.commercial-unit
 sportingnews.com##.commercial-wrapper
 versusio.com##.compare_leaderboard
-binnews.com##.component-pushdown
-binnews.com##.component-recommendation
+binnews.com,iheart.com##.component-pushdown
+binnews.com,iheart.com##.component-recommendation
 washingtontimes.com##.connatixcontainer
 spoonyexperiment.com##.cont_adv
 marketwatch.com##.container--sponsored
@@ -56479,6 +56480,7 @@ davidwalsh.name##[href="https://requestmetrics.com/"]
 mhktricks.org##[href="https://www.deepbrid.com/"]
 deshdoaba.com##[href="https://www.nsbinsures.com/"]
 noypigeeks.com##[href] > .litespeed-loaded
+bittools.net##[href^="//www.bittools.net/binance"]
 yoursports.stream##[href^="/bet"]
 nzbindex.com##[href^="/i/c/"]
 steroid.com##[href^="/out.php"]
