@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PMuLeT+kS8cI7IZjBkjFDw
-! Version: 202101290011
+! Checksum: +jL7Cbi5/J8v90T69GYOPw
+! Version: 202101300011
 ! Title: EasyList
-! Last modified: 29 Jan 2021 00:11 UTC
+! Last modified: 30 Jan 2021 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -752,7 +752,6 @@
 .org/ad-
 .org/ad.$~script
 .org/ad/
-.org/ad_
 .org/adgallery1
 .org/ads-
 .org/ads/
@@ -6660,7 +6659,6 @@
 /sponsorad.
 /sponsorad2.
 /sponsoradds/*
-/sponsorads.
 /sponsorads/*
 /sponsorbanners/*
 /sponsorbg/*
@@ -8322,7 +8320,6 @@ _prebid_
 /adBlockDetector/*
 /adblockdetectorwithga.
 /adblocker-leader.
-/adblocker.js
 /adBlockerTrack_
 /adblockkiller.
 /adblockpopup.
@@ -12624,6 +12621,7 @@ _popunder+$popup
 ###advert-sky
 ###advert-skyscaper
 ###advert-skyscraper
+###advert-slider-top
 ###advert-stickysky
 ###advert-text
 ###advert-top
@@ -17570,6 +17568,7 @@ _popunder+$popup
 ###wrapCommentAd
 ###wrap_ad_main
 ###wrapper-AD_PUSH
+###wrapper-advert-slider-top
 ###wrapperAdsTopLeft
 ###wrapperAdsTopRight
 ###wrapperRightAds
@@ -18402,6 +18401,8 @@ _popunder+$popup
 ##.ad-300-blog
 ##.ad-300-dummy
 ##.ad-300-flex
+##.ad-300X250
+##.ad-300X250-body
 ##.ad-300x
 ##.ad-300x100
 ##.ad-300x200
@@ -22321,6 +22322,7 @@ _popunder+$popup
 ##.advert-silver
 ##.advert-sky
 ##.advert-skyscraper
+##.advert-slider
 ##.advert-spot-container
 ##.advert-stub
 ##.advert-text
@@ -25849,6 +25851,7 @@ _popunder+$popup
 ##.inlistAd
 ##.inner-ad
 ##.inner-ad-disclaimer
+##.inner-ad-section
 ##.inner-adv
 ##.inner-advert
 ##.inner-advt-banner-3
@@ -26375,6 +26378,7 @@ _popunder+$popup
 ##.mailAdElem
 ##.mailad
 ##.main-ad
+##.main-add-sec
 ##.main-ads
 ##.main-ads-line-2
 ##.main-advert
@@ -28806,6 +28810,7 @@ _popunder+$popup
 ##.storyAdvert
 ##.storyInlineAdBlock
 ##.story_AD
+##.story__top__ad
 ##.story_ad_div
 ##.story_ads_right_spl
 ##.story_ads_right_spl_budget
@@ -29811,6 +29816,7 @@ _popunder+$popup
 ##.wrapad
 ##.wrapper-ad
 ##.wrapper-ad-sidecol
+##.wrapper-advert-slider
 ##.wrapper-banner-half-page-ad
 ##.wrapper-google-ads
 ##.wrapper-sidebar_ads_box
