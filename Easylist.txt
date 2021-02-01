@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: czkHe79BuA3BQwzhVfz0mQ
-! Version: 202101310011
+! Checksum: tO+q7M8xHLT7agdvgWMx2Q
+! Version: 202102010011
 ! Title: EasyList
-! Last modified: 31 Jan 2021 00:10 UTC
+! Last modified: 01 Feb 2021 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2078,7 +2078,7 @@
 /adlib.$domain=~adlib.info|~adlib.mu|~catharijneconvent.nl|~rws.nl
 /adlift4.
 /adlift4_
-/adline.$domain=~adline.co.il
+/adline.$domain=~adline.co.il|~adline.com
 /adlink-$domain=~adlinktech.com
 /adlink.$domain=~adlink.guru|~adlinktech.com
 /adlink/*$domain=~adlinktech.com
