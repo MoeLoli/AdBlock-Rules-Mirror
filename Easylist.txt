@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wzfdiY33dr/IHbWkKNXzNg
-! Version: 202103200000
+! Checksum: hfisUy6sBlZO9LPWrdkYag
+! Version: 202103210010
 ! Title: EasyList
-! Last modified: 20 Mar 2021 00:00 UTC
+! Last modified: 21 Mar 2021 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17724,6 +17724,7 @@ _popunder+$popup
 ##.A__smallSuperbannerAdvert-main
 ##.AcceptableTextAds
 ##.Accordion_ad
+##.Ad--awareness-bp
 ##.Ad--empty
 ##.Ad--header
 ##.Ad--sidebar
@@ -34511,6 +34512,7 @@ menstennisforums.com#@#.top_ads
 ||e5d944a25e468d.com^
 ||e5f06193a7.com^
 ||e6916adeb7e46a883.com^
+||e702fa7de9d35c37.com^
 ||e7393e33565ce805.com^
 ||e7594ca72746.com^
 ||e7e776c1a8bf677.com^
@@ -35291,6 +35293,7 @@ menstennisforums.com#@#.top_ads
 ||frpguidmetp.com^
 ||frpiksdeygy.com^
 ||frsuli.com^
+||frustratingtabletaltered.com^
 ||frustrationstudy.com^
 ||fryawlauk.com^
 ||fryirktan.com^
@@ -40982,6 +40985,7 @@ menstennisforums.com#@#.top_ads
 ||wnhzlesdqzu.com^
 ||wnlhbehajh.com^
 ||wnprot.com^
+||woawouru.net^
 ||wodjfxlhxd.com^
 ||woeqspvhjs.com^
 ||wojdn.com^
@@ -47691,6 +47695,7 @@ menstennisforums.com#@#.top_ads
 ||dynsrvaba.com^$popup
 ||dynsrvwer.com^$popup
 ||dzhjmp.com^$popup
+||e702fa7de9d35c37.com^$popup
 ||eacdn.com^$popup
 ||ealeo.com^$popup
 ||eaoueopa.com^$popup
@@ -56876,6 +56881,7 @@ babesandbitches.net##div[class^="banner"]
 pornjam.com##div[class^="right-player-"]
 tubepornclassic.com##div[id^="ad-"]
 hentaistream.com##div[id^="adx_ad-"]
+pornhub.com##div[id^="customSkin"]
 hentaistream.com##div[id^="hs_ad"]
 pornstarbyface.com##div[id^="sponcored-content-"]
 lewdgamer.com##div[id^="spot-"]
@@ -57335,6 +57341,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||history.com^$generichide
 @@||msn.com^$generichide
 @@||reuters.com^$generichide
+@@||slack.com^$generichide
 @@||smallseotools.com^$generichide
 @@||stclassifieds.sg^$generichide
 @@||thefreedictionary.com^$generichide
