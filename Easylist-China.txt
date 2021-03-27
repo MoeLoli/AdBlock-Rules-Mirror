@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gVYbX+/EU7DikhZfmeFiMA
-! Version: 202103252352
+! Checksum: cksy4PbwyosgLsWORm+C2A
+! Version: 202103262352
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 25 Mar 2021 23:52 UTC
+! Last Modified: 26 Mar 2021 23:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -2065,6 +2065,7 @@ ubmcmm.baidustatic.com
 ||dazibenwm.com^
 ||dbncp.com^
 ||dbojetp.cn^
+||dce0k0.cn^
 ||dcxmy.com^$third-party
 ||dddddd.net^$third-party
 ||ddhtek.com^
@@ -4646,6 +4647,7 @@ _yad_jsonp_
 ||actoys.net/js/beitou.js
 ||actoys.net/statics/js/index/ad.js
 ||acwifi.net/wp-content/uploads/2019/11/20191119.jpg
+||ad-1258444056.cos.accelerate.myqcloud.com^
 ||ad-api.cnblogs.com^
 ||ad-img.diyidan.net^
 ||ad.12306.cn/res/*.html
@@ -8736,7 +8738,7 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||ad-1258444056.cos.accelerate.myqcloud.com^
+||shangc.net/ipquery.ashx
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -10864,6 +10866,7 @@ boo.tw##.blockUI
 oschina.net##.blog-left-ad
 codexiu.cn##.blog-twitter:first-child
 house.qq.com##.bm
+1point3acres.com##.bm.a_c
 tropica.cn##.bm.a_c1
 ydss.cn##.bm.bml.pbn > table > tbody > tr > td:nth-child(-n+2)
 jlmhk.com##.bn
@@ -13484,6 +13487,7 @@ hz66.com##div[class*="lb_gg"]
 steamcn.com##div[class*="liz_"]
 keylol.com,steamcn.com##div[class*="rnd_"]
 wenku.baidu.com##div[class*="tiger-"][class*="-dialog"]
+vpsmm.com##div[class*="xx"]
 cosxcos.cc##div[class*="yy"]
 ifeng.com##div[class="adbox02"]
 ithome.com.tw##div[class="span4"]
@@ -13706,7 +13710,6 @@ mjzj.com##div[id^="sidebar-top-carouse"]
 douyu.com##div[id^="sign_p_"]
 xsldh6.com##div[id^="slide"] > .pure-g:nth-child(3)
 suizhoushi.com##div[id^="sznew_ad"]
-vpsmm.com##div[id^="t"]
 ottawazine.com##div[id^="text-"]
 e0575.cn##div[id^="tid_"]
 baidu.com##div[id^="toast"]
@@ -16367,6 +16370,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||73cm.com^
 ||74vc.cn^
 ||76xs.com^
+||7b6l2j.cn^
 ||7ez4.cn^
 ||7j7jv5.cn^
 ||7kkqq.com^
@@ -17227,6 +17231,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||laiye315.top^
 ||lalaaal.cn^
 ||lalaxit.cn^
+||lamaowei.com^
 ||lanshiwan.cn^
 ||lantuyj.com^
 ||laojiayoufang.com^
@@ -18137,6 +18142,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||zunss.com^
 ||zuopp.com^
 ||zutodu.cn^
+||zvqbbj.cn^
 ||zwdu.com/static/scripts/1.js
 ||zwdu.com/static/scripts/common.
 ||zwhkug.cn^
