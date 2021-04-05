@@ -61,8 +61,8 @@ jobs:
               exit 0
           else 
               git add .
-              git config --local user.email "10751888+MoeLoli@users.noreply.github.com"
-              git config --local user.name "github-action[bot]"
+              git config --local user.email "81902114+SoraJinBot@users.noreply.github.com"
+              git config --local user.name "SoraJinBot"
               git commit -m "Updated at $(date)" -a
           fi
             
