@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-11T22:05:24.697Z
+! Last modified: 2021-04-12T18:21:04.403Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||abroodeuripi.com^
+||gratingtode.com^
+||directpaper.name^
+||monumentsmaterialeasel.com^
 ||intrudeaccess.com^
 ||notesbook.in^
 ||mblink.in^
@@ -3766,6 +3770,7 @@ vkcdnservice.appspot.com^
 ||abwsunml.com^
 ||ac2msg.online^
 ||acacdn.com^
+||acalatthen.fun^
 ||accedenonre.club^
 ||acceleratesign.com^
 ||accelerationirreproachabledonation.com^
@@ -4810,6 +4815,7 @@ vkcdnservice.appspot.com^
 ||bruceleadx3.com^
 ||bruceleadx4.com^
 ||bruvwmrxudd.com^
+||bsdaban.com^
 ||bsgimhqko.com^
 ||bsjjtpkc.com^
 ||bszaoqzjyx.com^
@@ -5862,6 +5868,7 @@ vkcdnservice.appspot.com^
 ||definitedikdra.site^
 ||definitial.com^
 ||defpush.com^
+||dehtxweiq.com^
 ||dehydratedpredestinationplenty.com^
 ||deicemaptwin.com^
 ||deiligejenter.com^
@@ -6017,6 +6024,7 @@ vkcdnservice.appspot.com^
 ||diseasonal.club^
 ||diseasons.club^
 ||disembarkappendix.com^
+||disguisesunattractive.com^
 ||disinterestedreflectionmuscle.com^
 ||dislanelibrar.top^
 ||disloquerent.website^
@@ -6458,6 +6466,7 @@ vkcdnservice.appspot.com^
 ||ejirytuw.xyz^
 ||ejoonsoo.net^
 ||ejrhtmwm.com^
+||ejyrabeonmyh.com^
 ||ek9xrk5gyu.com^
 ||ekansovi.com^
 ||ekggptrw.com^
@@ -6795,6 +6804,7 @@ vkcdnservice.appspot.com^
 ||extend.tv^
 ||exterminatetooth.com^
 ||extra33.com^
+||extraordinarygeorgianaanomalous.com^
 ||extrementtgfa.site^
 ||extremereach.io^
 ||extyoasigus.com^
@@ -7706,6 +7716,7 @@ vkcdnservice.appspot.com^
 ||hangorientalauto.com^
 ||haphazarddrunk.com^
 ||hapogzu9a19m5fhe56pb.pro^
+||happeningaxis.com^
 ||happer.info^
 ||haracticdag.fun^
 ||haractice.club^
@@ -7885,6 +7896,7 @@ vkcdnservice.appspot.com^
 ||hoosorie.com^
 ||hootcodcagy.casa^
 ||hoowooze.net^
+||hopeorganconstructive.com^
 ||hopinionin.club^
 ||horiticalagen.club^
 ||horiticaldist.fun^
@@ -8379,6 +8391,7 @@ vkcdnservice.appspot.com^
 ||js-kods.club^
 ||jstatic.org^
 ||jtbdzlpuojqln.com^
+||jtinssutynyf.com^
 ||jtuvgczhvuptzn.com^
 ||jua05myfbe.com^
 ||jubsouth.com^
@@ -10925,6 +10938,7 @@ vkcdnservice.appspot.com^
 ||pxhogrilyeov.com^
 ||pxjzhqcmuaa.com^
 ||pxlqyrteuuh.com^
+||pxmyjxebxgv.com^
 ||pxqxbkqcohsy.com^
 ||pxxxyhum.com^
 ||pycmdgig.com^
@@ -12413,6 +12427,7 @@ vkcdnservice.appspot.com^
 ||thesister.club^
 ||thetarhaw.com^
 ||theweblocker.net^
+||thfrrszqfhepv.com^
 ||thigeeph.com^
 ||thighiny.com^
 ||thighlykamsh.site^
@@ -12782,6 +12797,7 @@ vkcdnservice.appspot.com^
 ||ujkqudpjtbztz.com^
 ||ujpbruxewv.com^
 ||ujpvnnmnsoypsa.com^
+||ujqcbxcjkc.com^
 ||ujqiqzsibnfclm.com^
 ||ujuqvalvvvof.com^
 ||ujxogbsw.com^
@@ -13135,6 +13151,7 @@ vkcdnservice.appspot.com^
 ||voterialijikol.site^
 ||vouceeco.com^
 ||vouhecem.net^
+||voupkdprug.com^
 ||vovhiwr.com^
 ||vowifeba.xyz^
 ||vownixsofa.cam^
@@ -13183,6 +13200,7 @@ vkcdnservice.appspot.com^
 ||vzcljugmtuno.com^
 ||vzjjglrnira.com^
 ||vznntmjdb.com^
+||vztvgqbbvbjv.com^
 ||vzvpswkjpxvzs.com^
 ||vzzylo.com^
 ||w00f.net^
@@ -17788,6 +17806,12 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||qoisocrldvnesni.ru^
+||xawsnngjljanxof.su^
+||bdvwidxfiextwof.ru^
+||krvpsegjeukhoqk.su^
+||auqcmkubxjmeeyf.ru^
+||vloxaloyfmdqxti.ru^
 ||iad-*.braze.com^
 ||adpopcorn.com^
 ||pangle.io^
@@ -18444,6 +18468,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||instapagemetrics.com^
+||mas.protecmedia.com^
 ||t.rainide.com^
 ||durationmedia.net^
 ||stats.myangular.life^
@@ -21366,6 +21392,7 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||ticketaunt.com^
 ||warmafterthought.com^
 ||fumblingform.com^
 ||aloofvest.com^
@@ -22393,6 +22420,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||dmp.citiservi.es^
 ||crta.metro.co.uk^
 ||dtrace.nvidia.com^
 ||temptation.ad.nl^
@@ -24135,7 +24163,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.ad.xiaomi.com^
 ||a.bitmango.com^
 ||tracking.directservices.it^
-||vortex.data.microsoft.com^
 ||onedrive-collection.device.mobileengagement.windows.net^
 ||metrics.timewarnercable.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -27009,6 +27036,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||tgdmpf.com^
 ||ece8c2alhz.ru^
 ||vionertelssat.pro^
 ||ylesmn.com^
@@ -31613,6 +31641,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||smv.to^
 ||geniee.jp^
 ||ad.angel-live.com^
+||rss-loader.com^
 ||reajyu.net^
 ||ads-lite.net^
 ||blogparts.gcolle.net^
@@ -32567,9 +32596,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Apr 2021 14:46 UTC+7
-! Version: 2104061446
-! Blocked: 836 rules
+! Last modified: 12 Apr 2021 16:24 UTC+7
+! Version: 2104121624
+! Blocked: 849 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32652,7 +32681,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logger.vsmarty.vn^
 ||logv2.mp3.zing.vn^
 ||mangoads.vn^
-||masoffer.net^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mclick.mobi^
@@ -33089,6 +33117,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||smetrics.kone.vn^
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
+||static.masoffer.net^
 ||staticad.thethao247.vn^
 ||statis.dsp.vn^
 ||statistic.batdongsan.com.vn^
@@ -33164,8 +33193,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||3kingclub.com^
 ||50soc.com^
 ||520xiaojin.com^
+||68rich.com^
+||68rich.org^
 ||789.club^
 ||789.fun^
+||789.moi^
 ||789club.org^
 ||79lucky.com^
 ||888b.com^
@@ -33181,6 +33213,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ae888.com^
 ||aw8vn2.com^
 ||b29qc.win^
+||b52.win^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
@@ -33200,6 +33233,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fabet.vip^
 ||fabetvn.com^
 ||fb88.com^
+||fb88.link^
 ||fb88club.com^
 ||fb88en.com^
 ||fb88go.com^
@@ -33281,6 +33315,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||red88.com^
 ||ric.win^
 ||rik.vip^
+||rik.win^
 ||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
@@ -33296,6 +33331,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||taimacau.club^
 ||taiv8.com^
 ||tangsoc.com^
+||thethaodabet.com^
 ||thethaofb88.com^
 ||thethaovip.vip^
 ||tin010.com^
@@ -33303,6 +33339,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top88.club^
 ||top88.fun^
 ||top88.uk^
+||top88.us^
 ||uw88vnd.com^
 ||v7ac.com^
 ||v8.club^
@@ -33323,6 +33360,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vnloto.com^
 ||vua1004.club^
 ||vua1005.club^
+||vuaclub1008.club^
 ||vw220.com^
 ||vwinnow.com^
 ||vwinthethao.com^
@@ -33352,12 +33390,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zo.game^
 ||zowinvn.vip^
 ||bloodleian.club^
+||byonlym.com^
 ||celerantatters.com^
+||cettiarl.com^
+||drakeesh.com^
 ||hashearog.com^
 ||larpollicwilli.club^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
 ||smilitygorb.club^
+||tammenaa.com^
 ||ucesreferre.club^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
@@ -35930,7 +35972,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||nhrlzy.com^
+||cbxe1r.cn^
+||kaiyiluye.com^
+||dodolive.cn^
+||wtztkpy.cn^
+||mzirmall.com^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -36940,6 +36986,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nggwhyk.cn^
 ||ngmaul.cn^
 ||ngsaang.top^
+||nhrlzy.com^
 ||niegg.com^
 ||nihao987654.top^
 ||ningbojipiao.com^
