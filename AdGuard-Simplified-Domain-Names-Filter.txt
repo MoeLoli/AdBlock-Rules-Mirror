@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-23T18:22:33.004Z
+! Last modified: 2021-04-24T18:20:55.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||clothingsphere.com^
+||piuradelivery.com^
+||stagepopkek.com^
 ||a.dirtyasmr.com^
 ||papaneecorche.com^
 ||youngoutmatchthousand.com^
@@ -4813,6 +4816,7 @@ vkcdnservice.appspot.com^
 ||browsers.support^
 ||browsobsolete.com^
 ||brqvld0p.com^
+||brrcaqvz.com^
 ||brtsumthree.com^
 ||brucelead.com^
 ||bruceleadx.com^
@@ -15780,7 +15784,6 @@ vkcdnservice.appspot.com^
 ||pipeaota.com^
 ||pipsol.net^
 ||piticlik.com^
-||piuradelivery.com^
 ||pivotrunner.com^
 ||pixazza.com^
 ||pixeltrack66.com^
@@ -22031,6 +22034,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||log.g-enews.com^
 ||pla-tk.flipkart.net^
 ||stat.myshows.me^
 ||d2ieqaiwehnqqp.cloudfront.net^
@@ -24508,7 +24512,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||smrk.io^
 ||smtrk.net^
 ||snapdeal.biz^
-||snapsmedia.io^
 ||sni-dat.com^
 ||social-sb.com^
 ||socketviking.net^
@@ -25138,7 +25141,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bonsai.internetbrands.com^
 ||brain.foresee.com^
 ||bright.bncnt.com^
-||browser.sentry-cdn.com^
 ||bs.yandex.ru^
 ||btn.clickability.com^
 ||btrace.video.qq.com^
@@ -25339,7 +25341,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
 ||geoip.nekudo.com^
-||go.pardot.com^
 ||go.toutapp.com^
 ||green-griffin-860.appspot.com^
 ||gsp1.baidu.com^
@@ -31261,6 +31262,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||150601.fc2rs.com^
 ||ad.eloan.co.jp^
 ||divscripty.net^
 ||zxcvbnmasdfghjklqwertyuiop.work^
@@ -33038,7 +33040,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||lyxuexin.com^
+||yskanba.com^
+||iupnlpd.cn^
+||cy-wz.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33920,6 +33924,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lymstsc.com^
 ||lytubaobao.com^
 ||lyunsd.cn^
+||lyxuexin.com^
 ||lyztdz.com^
 ||lzmm8.com^
 ||magictreehouse.cn^
@@ -35615,8 +35620,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||ltaome.cn^
-||fskj100.cn^
+||wenqixiefu.cn^
+||tuwo-audio.cn^
+||waterincloud.cn^
+||yeyushe.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -36157,6 +36164,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fqzds.com^
 ||friend17.net^
 ||frjxdv.cn^
+||fskj100.cn^
 ||fstaw.com^
 ||fszhxd.com^
 ||fuchuqu.cn^
@@ -36571,6 +36579,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lq1.abcxs.com^
 ||lr96.top^
 ||lshmjz.com^
+||ltaome.cn^
 ||lusrg.cn^
 ||luxoshopde.com^
 ||luyouxi.cn^
