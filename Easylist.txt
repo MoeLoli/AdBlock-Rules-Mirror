@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: A8SqBAym36bMz//E/epjng
-! Version: 202106120011
+! Checksum: rSnRkMLIZmlup0Gaae3thQ
+! Version: 202106130021
 ! Title: EasyList
-! Last modified: 12 Jun 2021 00:11 UTC
+! Last modified: 13 Jun 2021 00:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -631,7 +631,7 @@
 .com/ads/$image,object,subdocument,domain=~developers.google.com|~sabotage-films.com
 .com/ads?
 .com/ads_
-.com/adv/$domain=~advantabankcorp.com|~archiproducts.com|~tritondigital.com
+.com/adv/$domain=~adv.asahi.com|~advantabankcorp.com|~archiproducts.com|~tritondigital.com
 .com/adv3/
 .com/adv?
 .com/adv_
@@ -719,7 +719,6 @@
 .nativeads.
 .net/_adv/
 .net/ad-
-.net/ad/$~xmlhttprequest
 .net/ad2/$~xmlhttprequest
 .net/ad_
 .net/adgallery
@@ -2423,7 +2422,6 @@
 /ads.release/*
 /ads.swf
 /ads.txt
-/ads.v5.js
 /ads.w3c.
 /ads/1.
 /ads/125l.
@@ -5071,8 +5069,6 @@
 /guardianleader.
 /guardrailad_
 /guest/ad/*
-/gujAd.
-/GujAd/*
 /gutterAd.
 /gutterspacead.
 /halfadvert/*
@@ -7301,7 +7297,7 @@
 ://adcl.$domain=~adcl.com|~adcl.screenconnect.com
 ://adn.*/zone/$subdocument
 ://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.lapalingo.com|~ads.lordlucky.com|~ads.magalu.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
-://adv.$domain=~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.ec|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
+://adv.$domain=~adv.asahi.com|~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.ec|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
 ://affiliates.$third-party
 ://affiliates2.$third-party
@@ -7705,7 +7701,6 @@ _ads/horiz_
 _ads/iframe.
 _ads/inhouse/
 _ads/ip/
-_ads/js/
 _ads/mobile/
 _ads/square/
 _ads1-
@@ -8308,7 +8303,6 @@ _prebid_
 /abDetector.js
 /abp_detection/*
 /abtest_ab.js
-/ad-blocker.js
 /ad-blocking-alert/*
 /adb.min.js
 /adb_detector.
@@ -22959,6 +22953,7 @@ _popunder+$popup
 ##.adworks
 ##.adwrap
 ##.adwrap-widget
+##.adwrapper--desktop
 ##.adwrapper-lrec
 ##.adwrapper1
 ##.adwrapper948
@@ -39433,7 +39428,6 @@ menstennisforums.com#@#.top_ads
 ||onmarshtompor.com^
 ||onmystems.top^
 ||onolinclosesr.club^
-||onsafelink.com^
 ||onsertilyas.club^
 ||onsetoyour.fun^
 ||onsidentss.top^
@@ -45038,7 +45032,6 @@ menstennisforums.com#@#.top_ads
 ||jiwire.com^$third-party
 ||jmp9.com^$third-party
 ||jobsyndicate.com^$third-party
-||jobtarget.com^$third-party
 ||jodellvideos.pro^$third-party
 ||joorejou.net^$third-party
 ||jotchept.com^$third-party
@@ -45478,6 +45471,7 @@ menstennisforums.com#@#.top_ads
 ||online-adnetwork.com^$third-party
 ||onlyalad.net^$third-party
 ||onrampadvertising.com^$third-party
+||onsafelink.com^$script,third-party
 ||onscroll.com^$third-party
 ||onvertise.com^$third-party
 ||onvictinitor.com^$third-party
@@ -49711,6 +49705,7 @@ menstennisforums.com#@#.top_ads
 ||jivox.com/jivox/serverapis/getcampaignbyid.php?$object
 ||joblet.jp/javascripts/$third-party
 ||jobs-affiliates.ws/images/$third-party
+||jobtarget.com/distrib_pages/
 ||jocly.com^*.html?click=$subdocument,third-party
 ||jrcdev.net/promos/
 ||jsc.mgid.com^$third-party,domain=~marketgid.com|~marketgid.com.ua
@@ -50239,7 +50234,7 @@ menstennisforums.com#@#.top_ads
 ||taboola.com^$domain=independent.co.uk|scoopwhoop.com|technobuffalo.com
 ||tag.regieci.com^$third-party
 ||tags.sprizzy.com^
-||tags2.adshell.net^
+||tags2.adshell.net^$subdocument
 ||take2.co.za/misc/bannerscript.php?
 ||talkfusion.com^*/banners/
 ||tankionline.com/tankiref.swf
@@ -52271,6 +52266,7 @@ dealsofde.com###gg_box_1
 dealsofde.com###gg_box_2
 phillytrib.com###gkBannerTop
 wordcounter.net###glya
+pcgamingwiki.com###gog_summer_sale_2021
 mozillazine.org###goobot
 gearlive.com,mediamass.net,noscript.net###google
 photojpl.com###google01
@@ -53556,7 +53552,7 @@ mail.com##.indeed
 brudirect.com##.index-banner
 theinertia.com##.inertia-ad-300x250
 bab.la##.info-panel
-eatthis.com##.inline
+bestlifeonline.com,eatthis.com##.inline
 kijiji.ca##.inline-banner
 pcgamesn.com,theloadout.com##.inlinerail
 nintendolife.com##.insert
@@ -53640,6 +53636,7 @@ republicbroadcasting.org##.left-sidebar-padder > #text-8
 gogetaroomie.com##.left-space
 10minutemail.net##.leftXL
 digminecraft.com##.left_slot
+latestly.com##.lhs_adv_970x90_div
 op.gg##.life-owner
 mobygames.com##.lifesupport-header
 jpost.com##.line-left-side-before-and-after-container
@@ -53744,6 +53741,7 @@ forums.somethingawful.com##.oma_pal
 thedigitalfix.com##.ot-widget-banner
 out.com##.ourSponsors
 mma-core.com##.outVidAd
+techadvisor.com##.outer-wrapper
 golfweather.com##.ox300x250
 beermoneyforum.com##.p-body-sidebar
 worldoftanks-wot.com##.p2small
@@ -54144,7 +54142,7 @@ tumblr.com##.vd2CF
 fox10phoenix.com##.vendor-unit
 tetris.com##.verticalAx
 videogameschronicle.com##.vgc-boxout
-eatthis.com##.vi-video-wrapper
+bestlifeonline.com,eatthis.com##.vi-video-wrapper
 vice.com##.vice-ad__container
 yahoo.com##.viewer-sda-container
 variety.com##.vip-banner
@@ -54173,6 +54171,7 @@ miniclip.com##.widget-mpu
 wplift.com##.widget_bsa
 cnx-software.com,techdows.com##.widget_custom_html
 eos.org##.widget_eosadvertisement
+bestlifeonline.com##.widget_gm_karmaadunit_widget
 extremetech.com##.widget_gptwidget
 theiphoneappreview.com##.widget_links
 deshdoaba.com,washingtonmonthly.com##.widget_media_image
@@ -54275,6 +54274,7 @@ upload.ee##[href^="https://www.upload.ee/click.php"]
 searchenginejournal.com##[id^="SEJ_300x250_"]
 geeksforgeeks.org##[id^="bsa-zone"]
 eatthis.com##[id^="gm_karmaadunit_widget"]
+techadvisor.com##[referrerpolicy="unsafe-url"]
 transfermarkt.co.uk##[referrerpolicy]
 audioz.download##[src*="/promo/"]
 manganelo.com##[src^="/ads/"]
@@ -54358,6 +54358,7 @@ healthline.com##div.css-0 > div[class]:not([id])
 guru99.com##div.custom > .hidden-phone
 cdromance.com##div.game-container[style="grid-column: span 2;"]
 designtaxi.com##div.masonry-brick.nt
+pcgamingwiki.com##div.upcoming-releases.home-card:first-child
 website.informer.com##div[align="center"]
 nexusradio.com##div[align=center]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##div[cel_widget_id*="_SponsoredProducts"]
@@ -56010,6 +56011,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ads.taboola.com^$popup
 @@||ads.tiktok.com^$popup
 @@||ads.twitter.com^$popup,~third-party
+@@||adv.asahi.com^$popup
 @@||adv.blogupp.com^$popup
 @@||adv.cr^$popup
 @@||adv.gg^$popup
