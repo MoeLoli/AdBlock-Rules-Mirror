@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pHulXV3voPwVulFzsQruuw
-! Version: 202106150011
+! Checksum: h+mR5PLDsc+bKMDPZTaZuA
+! Version: 202106160011
 ! Title: EasyList
-! Last modified: 15 Jun 2021 00:11 UTC
+! Last modified: 16 Jun 2021 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2139,7 +2139,7 @@
 /admaxads.
 /admcoreext.
 /admeasure.
-/admedia.$domain=~admedia.ae|~admedia.agency|~admedia.co.il|~admedia.com|~admedia.net.au
+/admedia.$domain=~admedia.ae|~admedia.agency|~admedia.az|~admedia.co.il|~admedia.com|~admedia.net.au
 /admedia/*
 /admega.
 /admeld.
@@ -13589,6 +13589,7 @@ _popunder+$popup
 ###centerads
 ###central-ads
 ###cgp-bigbox-ad
+###ch-ad-outer-right
 ###ch-ads
 ###channel-ads-300-box
 ###channel-ads-300x600-box
@@ -19760,6 +19761,7 @@ _popunder+$popup
 ##.adFullWidth
 ##.adFullWidthBottom
 ##.adFullWidthMiddle
+##.adFullbanner
 ##.adGlobalHeader
 ##.adGogleBox
 ##.adGoogle
@@ -23265,6 +23267,7 @@ _popunder+$popup
 ##.b_ads_r
 ##.b_ads_top
 ##.back300ad
+##.background-ad
 ##.background-adv
 ##.backgroundAd
 ##.badge-gag-ads-container
@@ -24147,6 +24150,7 @@ _popunder+$popup
 ##.cerrar_bloque_ads2
 ##.cg_ad_slug
 ##.cgs-ad-spot
+##.ch-ad-item
 ##.ch_advertisement
 ##.change-ad-h-btn
 ##.change_AdContainer
@@ -26608,6 +26612,7 @@ _popunder+$popup
 ##.m-ad-region
 ##.m-ad-region-leaderboard
 ##.m-ad-tvguide-box
+##.m-ad-unit
 ##.m-ad__placeholder--970x250
 ##.m-ad__wrapper
 ##.m-ad__wrapper--300x250
@@ -29220,6 +29225,7 @@ _popunder+$popup
 ##.super-leaderboard-advert
 ##.super-section__ads-wrapper
 ##.superLeaderOverallAdArea
+##.superbanner-adcontent
 ##.supercommentad_left
 ##.supercommentad_right
 ##.supernews-ad-widget
@@ -30915,9 +30921,9 @@ _popunder+$popup
 ##a[href^="https://playuhd.host/"]
 ##a[href^="https://porndeals.com/?track="]
 ##a[href^="https://porngames.adult/?SID="]
-##a[href^="https://prf.hn/click/"][href*="/adref:"]
-##a[href^="https://prf.hn/click/"][href*="/camref:"]
-##a[href^="https://prf.hn/click/"][href*="/creativeref:"]
+##a[href^="https://prf.hn/click/"][href*="/adref:"] > img
+##a[href^="https://prf.hn/click/"][href*="/camref:"] > img
+##a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img
 ##a[href^="https://pubads.g.doubleclick.net/"]
 ##a[href^="https://reachtrgt.com/"]
 ##a[href^="https://redsittalvetoft.pro/"]
@@ -37520,6 +37526,7 @@ menstennisforums.com#@#.top_ads
 ||it7645-blockchain-news.club^
 ||itblisseyer.com^
 ||itcfnfi.com^
+||itchimpish.com^
 ||itchingadore.com^
 ||itchingcrystalfemales.com^
 ||itdise.info^
@@ -39347,6 +39354,7 @@ menstennisforums.com#@#.top_ads
 ||oldqsuoemchpr.com^
 ||oldrummarim.club^
 ||olibenelading.xyz^
+||olivedinflats.space^
 ||olkrzytv.com^
 ||ollectusdign.top^
 ||olmsoneenh.info^
@@ -47060,6 +47068,7 @@ menstennisforums.com#@#.top_ads
 ||cpxdeliv.com^$popup
 ||crazyad.net^$popup
 ||cretgate.com^$popup
+||cromo.name^$popup
 ||crt.livejasmin.com^$popup
 ||crypto-news-world.club^$popup
 ||cutw.pro^$popup
@@ -47422,6 +47431,7 @@ menstennisforums.com#@#.top_ads
 ||mobsuitem.com^$popup
 ||modescrips.info^$popup
 ||modificationdispatch.com^$popup
+||mogybapty.pro^$popup
 ||moncoerbb.com^$popup
 ||moneytec.com^$popup,third-party
 ||morphonebrities.info^$popup
