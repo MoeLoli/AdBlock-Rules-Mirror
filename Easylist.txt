@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MAsFuP2oo64ZAdIY0Ue/fw
-! Version: 202106180011
+! Checksum: yrb6mDxzaKe1qng6jeAgyA
+! Version: 202106190011
 ! Title: EasyList
-! Last modified: 18 Jun 2021 00:11 UTC
+! Last modified: 19 Jun 2021 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14113,6 +14113,7 @@ _popunder+$popup
 ###dfp-leaderboard-desktop
 ###dfp-middle
 ###dfp-middle1
+###dfp-rectangle1
 ###dfp-srp-leaderboard
 ###dfp-srp-mobile-top
 ###dfp-tlb
@@ -22691,6 +22692,7 @@ _popunder+$popup
 ##.advertisement-leaderboard
 ##.advertisement-leaderboard-lg
 ##.advertisement-nav
+##.advertisement-new
 ##.advertisement-other
 ##.advertisement-placeholder
 ##.advertisement-position1
@@ -31978,6 +31980,7 @@ javbix.com#@#.adsleft
 fodey.com,tuxpi.com#@#.adslot
 wg-gesucht.de#@#.adslot_blurred
 cutepdf-editor.com#@#.adtable
+mediaite.com#@#.adthrive
 absolute.com#@#.adtile
 smilelocal.com#@#.adtop
 brandexperience-group.com#@#.adv-banner
@@ -44362,6 +44365,7 @@ menstennisforums.com#@#.top_ads
 ||bqiovml.com^$third-party
 ||br.rk.com^$third-party
 ||brainient.com^$third-party
+||brainlyads.com^$third-party
 ||branchr.com^$third-party
 ||brand-display.com^$third-party
 ||brand.net^$third-party
@@ -49083,7 +49087,7 @@ menstennisforums.com#@#.top_ads
 ||cdnpark.com/scripts/js3.js
 ||cdnprk.com/scripts/js3.js
 ||cdnprk.com/scripts/js3caf.js
-||cdnpub.info^$third-party,domain=~iqoption.com
+||cdnpub.info^$third-party,domain=~iqbroker.co|~iqbroker.com|~iqoption.co.th|~iqoption.com|~tr-iqoption.com
 ||cdnservices.net/megatag.js
 ||centauro.net^*/banners/$third-party
 ||centralmediaserver.com^*_side_bars.jpg
@@ -55308,6 +55312,8 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||adjust.com/adjust-latest.min.js$domain=anchor.fm
 @@||adm.fwmrm.net^*/TremorAdRenderer.$object,domain=go.com
 @@||adm.fwmrm.net^*/videoadrenderer.$object,domain=cnbc.com|go.com|nbc.com|nbcnews.com
+@@||ads.adthrive.com/builds/$script,domain=www.mediaite.com
+@@||ads.adthrive.com/sites/$script,domain=www.mediaite.com
 @@||ads.dollartree.com/SneakPeek/$~third-party
 @@||ads.emarketer.com/adserve/;ID=176831;size=1170x117;setID=377294;type=json;$xmlhttprequest,domain=emarketer.com
 @@||ads.emarketer.com/adserve/;ID=176831;size=1170x117;setID=377297;type=json;$xmlhttprequest,domain=emarketer.com
@@ -55396,7 +55402,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||dnsleak.privateinternetaccess.com^$xmlhttprequest,domain=dnsleak.com
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
 @@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com|speedtest.net
-@@||doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|downdetector.com|epaper.timesgroup.com|formularywatch.com|gamespot.com|managedhealthcareexecutive.com|medicaleconomics.com|nbcsports.com|physicianspractice.com
+@@||doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|downdetector.com|epaper.timesgroup.com|formularywatch.com|gamespot.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nbcsports.com|physicianspractice.com
 @@||dwiextreme.com/banners/dwiextreme$image
 @@||edmodo.com/ads$~third-party,xmlhttprequest
 @@||einthusan.tv/prebid.js$script,~third-party
@@ -55424,7 +55430,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*RakutenShowtime$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/pagead/ads?*&description_url=https%3A%2F%2Fgames.wkb.jp$xmlhttprequest,domain=imasdk.googleapis.com
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|gamespot.com|indy100.com|managedhealthcareexecutive.com|medicaleconomics.com|physicianspractice.com|theta.tv
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|gamespot.com|indy100.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|physicianspractice.com|theta.tv
 @@||g2crowd.com/uploads/product/image/$image,domain=g2.com
 @@||glos.ac.uk/DataRepository/CourseDatabase/*/adv/$image,~third-party
 @@||gn-web-assets.api.bbc.com/bbcdotcom/assets/$script,domain=bbc.co.uk
