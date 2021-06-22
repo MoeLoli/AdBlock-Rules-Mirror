@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XdkZGDHMkiaAP/WwMc/SxQ
-! Version: 202106210011
+! Checksum: K0meSq71aIB5cA1SLFeEdQ
+! Version: 202106220011
 ! Title: EasyList
-! Last modified: 21 Jun 2021 00:11 UTC
+! Last modified: 22 Jun 2021 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4162,6 +4162,7 @@
 /brightcovead.
 /brokenAd.
 /brsAssets/ads/*
+/bsa-plugin-pro-
 /bsa-pro-
 /bserver/*
 /btads/*
@@ -11462,6 +11463,7 @@ _popunder+$popup
 ###adbox300600
 ###adbox300x250_1
 ###adbox300x250_2
+###adbox_content
 ###adbox_right
 ###adbrite
 ###adbrite_inline_div
@@ -18663,6 +18665,7 @@ _popunder+$popup
 ##.ad-col
 ##.ad-col-02
 ##.ad-collapsible-container
+##.ad-colour
 ##.ad-column
 ##.ad-comment
 ##.ad-companion
@@ -20769,6 +20772,7 @@ _popunder+$popup
 ##.adbox_cont
 ##.adbox_largerect
 ##.adbox_left
+##.adbox_top
 ##.adboxbg
 ##.adboxbot
 ##.adboxclass
@@ -20816,6 +20820,7 @@ _popunder+$popup
 ##.adcolumn_wrapper
 ##.adcomment
 ##.adcont
+##.adcontainer-Leaderboard
 ##.adcontainer-Rectangle
 ##.adcontainer2
 ##.adcontainer300x250l
@@ -21175,6 +21180,7 @@ _popunder+$popup
 ##.ads-core-placer
 ##.ads-custom
 ##.ads-decorator
+##.ads-desktop
 ##.ads-div
 ##.ads-divider
 ##.ads-express
@@ -25774,6 +25780,7 @@ _popunder+$popup
 ##.hm_top_right_google_ads_budget
 ##.hn-ads
 ##.holder-ad
+##.holder-ads
 ##.home-300x250-ad
 ##.home-activity-ad
 ##.home-ad
@@ -26780,6 +26787,8 @@ _popunder+$popup
 ##.mediaAd
 ##.mediaAdContainer
 ##.mediaResult_sponsoredSearch
+##.media__ad
+##.media__ad--banner
 ##.media_ad
 ##.mediamotive-ad
 ##.medianet-ad
@@ -51402,7 +51411,12 @@ menstennisforums.com#@#.top_ads
 /^https?:\/\/[0-9a-z]{8,29}\.com\/.*/$third-party,domain=9xmovies.app|9xupload.xyz|cloudvideo.tv|dood.watch|mixdrop.co|mixdrop.sx|mixdrop.to|mystream.to|ovagames.com|playtube.ws|strcloud.in|strtape.cloud|strtape.tech|supervideo.tv|uproxy.to|upstream.to|vidlox.me|vivo.sx|voe.sx|vupload.com|wowlive.info
 !
 ! Buff sites
-/^https?:\/\/[a-z0-9]{4,}\.(dotabuff|trackdota|speedrun|overbuff|dotabuff)\.com\/[a-z0-9]{1,6}.*/$script,~third-party,xmlhttprequest
+||dotabuff.com/a.js
+||elder-dragon.tracklol.com^
+||magic-stick.trackdota.com^
+||overbuff.com/a.js
+||speedrun.com/a.js
+||tethered-realms.valorbuff.com^
 ! coincodex.com
 |https://$script,subdocument,third-party,domain=coincodex.com
 ! prebid specific
@@ -52201,6 +52215,7 @@ cpuid.com###console_log
 scanboat.com###content > .margin-tb-25
 blastingnews.com###content-banner-dx1-p1
 amatuks.co.za###content-sponsors
+wsj.com###coupon-links
 titantv.com###ctl00_Main_TVL_ctl00_sb
 leader.co.za###ctl00_cphBody_pnUsefulLinks
 leader.co.za###ctl00_ctl00_cphBody_cphColumnBody_cphBannerBodyHeader_userBannerBodyHeader_pnBanners
@@ -53907,6 +53922,7 @@ al-monitor.com##.region--header-banner
 eneuro.org,jneurosci.org#@#.region-ad-top
 middleeasteye.net##.region-before-navigation
 futbol24.com##.rek
+4shared.com##.remove-rekl
 keengamer.com##.reserved-970
 3g2upl4pq6kufc4m.onion,duckduckgo.com##.result--ad > .result__body
 qwant.com##.result--ext
@@ -54669,6 +54685,7 @@ gelbooru.com##a[target="_blank"] > div
 gelbooru.com##a[target="_blank"] > img
 ! Site Specific filters (used with $generichide)
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top
+google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###atvcap > .cu-container > div > div[data-pla="1"]
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
 arstechnica.com###sponsored-recommendations
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###tads[aria-label]
@@ -54708,6 +54725,7 @@ yandex.com##div[id^="yandex_ad"]
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"]
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[role="navigation"] + c-wiz > div > .kxhcC
+google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="pane.place.carousel.card"]:-abp-has(span.ARktye-badge)
 ! Bug in uBo: https://github.com/gorhill/uBlock/issues/1885
 newyorker.com##div[class^="Ad_"]
 ! Filter for testpages.adblockplus.org
