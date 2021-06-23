@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /sgxUyYgBBOGMzzb+Pbc2Q
-! Version: 202106220003
+! Checksum: pPu/pFq9wcCZSticlwAFGg
+! Version: 202106230003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 22 Jun 2021 00:03 UTC
+! Last Modified: 23 Jun 2021 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -463,6 +463,7 @@
 /static/js/fuo_3.js
 /static/js/gold_daddy.js
 /static/js/headad.js
+/statics/recommend/bense.gif
 /stui_ads/xyz456e/*
 /stuiA004/statics/asd/*
 /sxgg/12.js
@@ -998,6 +999,7 @@ _xiuno_com_ad/
 ##.photo-two > a[onclick^="_czc."]
 ##.player + .sponsor
 ##.player-bottom-gg
+##.player-info > .recommend-two.recommend-list
 ##.pop[style="right: 10px;"]
 ##.privilege-promote
 ##.propa_bottom
@@ -2532,6 +2534,7 @@ ubmcmm.baidustatic.com
 ||iyptc.cn^
 ||j8j9.com^$third-party
 ||ja9377.com^
+||jacquelinelaura.com^
 ||jbyy010.com^
 ||jcelyj.com^
 ||jcwlq.com^
@@ -12364,6 +12367,7 @@ eastmoney.com##.popswipe
 dzwww.com##.popular
 qiuziti.com##.popularize
 eol.cn,hao123.com,site.baidu.com##.popup
+dianyingim.com,dyxs11.com##.popup-tips
 easylife.tw,ez3c.tw,softwarebrother.com##.popup_bottom_block
 camerabay.tv##.popupad
 pzzc.net##.portal_block_summary
@@ -12600,6 +12604,7 @@ xilu.com##.shehuibanner
 hao.rising.cn##.shop-site
 teepr.com##.shop-widget
 qiushibaike.com##.shopwindow
+dianyingim.com,dyxs11.com##.shortcuts-mobile-overlay
 pixabay.com##.show-gtty-item
 miercn.com##.show-img-box
 200sht.info,sehuatang.org##.show-text
@@ -13371,6 +13376,7 @@ jinti.com##a[href*="immobel.com"]
 v.sogou.com##a[href*="iwan.sogou.com/"]
 m.baidu.com##a[href*="m.lecai.com"]
 ccav1.com##a[href*="meidebi."]
+nfuwow.com##a[href*="myyj.net"]
 kafan.cn##a[href*="nameidi."]
 zhuna.cn##a[href*="quchuchai."]
 dmzj.com##a[href*="qunhei.com"]
@@ -16522,6 +16528,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||4htixb.cn^
 ||4kfv18.cn^
 ||4nzrqw.cn^
+||4tdbbs.cn^
 ||4z5o27.cn^
 ||517kp.com^
 ||519397.com^
@@ -16849,6 +16856,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||chkwwg.cn^
 ||chongnikeji.com^
 ||chuangjulm.cn^
+||chuanjiae.cn^
 ||chuzrra.cn^
 ||cifree.xyz^
 ||cike666.com^
@@ -17184,6 +17192,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||haomaiweb.com^
 ||haomaojin.com^
 ||haoxianyangrouye.com^
+||haoyundm.com^
 ||happyyong.com^
 ||hbbww.com^
 ||hbfie.org/mb/meng/
@@ -17570,6 +17579,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||lzjsjw.cn^
 ||m06nev.com^
 ||mababa.info^
+||madisonjamesphotography.com^
 ||maicaoren.cn^
 ||maimaias.cn^
 ||maka.im^$third-party
@@ -17901,6 +17911,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||shidaikejivip.cn^
 ||shidailw.com^
 ||shiguangyx.cn^
+||shirleyyean.com^
 ||shishishiguixinfangfuzhuangshanghan.cn^
 ||shjrwh.cn^
 ||shjsxx.com^
