@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yHnqrEUbV3ct6fciddYCqg
-! Version: 202106250011
+! Checksum: 4B3WQ4isF0b2SWZY5VVC4w
+! Version: 202106260011
 ! Title: EasyList
-! Last modified: 25 Jun 2021 00:11 UTC
+! Last modified: 26 Jun 2021 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6607,7 +6607,7 @@
 /smartad/*
 /smartAd?
 /smartad_
-/smartads.$domain=~smartads.com.sg|~smartads.cz|~smartads.io|~smartads.lt|~smartads.shop
+/smartads.$domain=~smartads.com.sg|~smartads.cz|~smartads.halocom.io|~smartads.io|~smartads.lt|~smartads.shop
 /smartadserver.$domain=~smartadserver.com|~smartadserver.com.br|~smartadserver.de|~smartadserver.es|~smartadserver.fr|~smartadserver.it|~smartadserver.pl|~smartadserver.ru
 /smartadserver/*$domain=~smartadserver.com|~smartadserver.de|~smartadserver.fr
 /smartlinks.epl?
@@ -24096,6 +24096,8 @@ _popunder+$popup
 ##.cactus-img-ads
 ##.cactus-mutil-ads
 ##.calendarAd
+##.california-ad
+##.california-sidebar-ad
 ##.callout-a-ad-box
 ##.calloutAd
 ##.calls-to-action__sidebar-ad-container
@@ -33507,6 +33509,7 @@ menstennisforums.com#@#.top_ads
 ||asgclickpop.com^
 ||asgclickpp.com^
 ||ashcdn.com^
+||ashhgo.com^
 ||ashingcontro.top^
 ||ashtraysophomore.com^
 ||asiangfsex.com^
@@ -34639,6 +34642,7 @@ menstennisforums.com#@#.top_ads
 ||cmfads.com^
 ||cmllk1.info^
 ||cmpgns.net^
+||cmrdr.com^
 ||cmtmzvrku9uae.host^
 ||cnnected.org^
 ||cnt.my^
@@ -37620,6 +37624,7 @@ menstennisforums.com#@#.top_ads
 ||itchingadore.com^
 ||itchingcrystalfemales.com^
 ||itdise.info^
+||itgiblean.com^
 ||itinerarymonarchy.com^
 ||itineraryupper.com^
 ||itllnww6x277.com^
@@ -38407,6 +38412,7 @@ menstennisforums.com#@#.top_ads
 ||maikuque.net^
 ||mailwithcash.com^
 ||maimeehu.com^
+||main-ti-cod.com^
 ||mainadv.com^
 ||mainauko.net^
 ||mainlandrambleinstinct.com^
@@ -41933,6 +41939,7 @@ menstennisforums.com#@#.top_ads
 ||thetaweblink.com^
 ||theweblocker.net^
 ||thfrrszqfhepv.com^
+||thidrump.net^
 ||thifinyfi.com^
 ||thigeeph.com^
 ||thighiny.com^
@@ -42268,6 +42275,7 @@ menstennisforums.com#@#.top_ads
 ||tyboyyli.xyz^
 ||tyranprototypeoats.com^
 ||tyunderives.info^
+||tywzyhfliwdbu.com^
 ||tzlchxdwreirbv.com^
 ||u-watchit.com^
 ||u07k3pqfw5jh.com^
@@ -42932,6 +42940,7 @@ menstennisforums.com#@#.top_ads
 ||whoostoo.net^
 ||whoseuntruelag.com^
 ||whoshood.com^
+||whouledu.com^
 ||whowhipi.net^
 ||whozuxoko.com^
 ||whs82908.com^
@@ -48446,7 +48455,6 @@ menstennisforums.com#@#.top_ads
 ||secretbehindporn.com^$third-party
 ||seeawhale.com^$third-party
 ||seekbang.com^$third-party
-||seemybucks.com^$third-party
 ||sehiba.com^$third-party
 ||seitentipp.com^$third-party
 ||sexad.net^$third-party
