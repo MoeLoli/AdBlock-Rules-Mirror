@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cxstAdKpiQcguf66UKtziA
-! Version: 202106280011
+! Checksum: JXr/NlZ9eZ59QG5WzuzPGg
+! Version: 202106290011
 ! Title: EasyList
-! Last modified: 28 Jun 2021 00:11 UTC
+! Last modified: 29 Jun 2021 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18826,6 +18826,7 @@ _popunder+$popup
 ##.ad-header-sidebar
 ##.ad-heading
 ##.ad-headliner-container
+##.ad-heigh-mobile-250
 ##.ad-here
 ##.ad-hero
 ##.ad-hide-mobile
@@ -25171,6 +25172,9 @@ _popunder+$popup
 ##.framead
 ##.freedownload_ads
 ##.freegame_bottomad
+##.freestar-ad-sidebar-container
+##.freestar-ad-wide-container
+##.freestar-incontent-ad
 ##.freewheelDEAdLocation
 ##.frn_adbox
 ##.frn_adbox_placeholder
@@ -25817,6 +25821,7 @@ _popunder+$popup
 ##.home-ad--promo
 ##.home-ad--top
 ##.home-ad-container
+##.home-ad-inline
 ##.home-ad-links
 ##.home-ad-region-1
 ##.home-ad-section
@@ -27067,6 +27072,7 @@ _popunder+$popup
 ##.mpu-holder
 ##.mpu-leaderboard
 ##.mpu-left
+##.mpu-left-bk
 ##.mpu-mediatv
 ##.mpu-right
 ##.mpu-title
@@ -27919,6 +27925,7 @@ _popunder+$popup
 ##.rc-sponsored
 ##.rc_ad_300x100
 ##.rc_ad_300x250
+##.rcom-freestar-ads-widget
 ##.rd_header_ads
 ##.rdio-homepage-widget
 ##.re-Ads-l
@@ -29107,6 +29114,7 @@ _popunder+$popup
 ##.sponsors-widget
 ##.sponsorsBanners
 ##.sponsors_300x250
+##.sponsors__container
 ##.sponsors__wide
 ##.sponsors_box_container
 ##.sponsors_fieldset
@@ -30450,6 +30458,7 @@ _popunder+$popup
 ##[href^="https://track.fiverr.com/visit/"]
 ##[href^="https://wct.link/"]
 ##[href^="https://www.highrevenuecpm.com"]
+##[href^="https://www.hostg.xyz/aff_c"]
 ##[href^="https://www.reimageplus.com/"]
 ##[href^="https://www.xvbelink.com/"]
 ##[id^="ad-wrap-"]
@@ -31500,6 +31509,7 @@ _popunder+$popup
 ! Taboola
 ###block-boxes-taboola
 ###component-taboola-below-article-feed
+###component-taboola-below-article-feed-2
 ###ra-taboola-bottom
 ###taboola-above-article-thumbnails-title
 ###taboola-ad
@@ -33710,6 +33720,7 @@ menstennisforums.com#@#.top_ads
 ||badleasump.cam^
 ||badsabs.com^
 ||badsamps.com^
+||badsans.com^
 ||badsbads.com^
 ||badsecs.com^
 ||badshades.com^
@@ -34096,6 +34107,7 @@ menstennisforums.com#@#.top_ads
 ||browsobsolete.com^
 ||brqvld0p.com^
 ||brrcaqvz.com^
+||brtcjmnplmzo.com^
 ||brtsumthree.com^
 ||brucelead.com^
 ||bruceleadx.com^
@@ -34836,6 +34848,7 @@ menstennisforums.com#@#.top_ads
 ||contrivancespannercooperate.com^
 ||controvedyt.club^
 ||conversityz.club^
+||convertmb.com^
 ||convrse.media^
 ||conyak.com^
 ||cookliverelk.com^
@@ -35410,6 +35423,7 @@ menstennisforums.com#@#.top_ads
 ||distractchafe.com^
 ||distraughtbudge.com^
 ||distressedsensesmanage.com^
+||distributeoldfashionedrung.com^
 ||districtbaloneywhiskers.com^
 ||districtm.ca^
 ||dit-dit-dot.com^
@@ -36115,6 +36129,7 @@ menstennisforums.com#@#.top_ads
 ||exercisely.club^
 ||exhaustedannulmentaccredited.com^
 ||exhaustedgemini.com^
+||exi8ef83z9.com^
 ||exitjunction.com^
 ||exjozegvbaresw.com^
 ||exobafrgdf.com^
@@ -37566,6 +37581,7 @@ menstennisforums.com#@#.top_ads
 ||instahookupclub2.com^
 ||instahookupclub3.com^
 ||installationtray.com^
+||installerleading.com^
 ||installsbarefootedringer.com^
 ||installssmashedbab.com^
 ||instantresp.com^
@@ -37815,6 +37831,7 @@ menstennisforums.com#@#.top_ads
 ||julrdr.com^
 ||jumbitr.com^
 ||jumbln.com^
+||jumotic.com^
 ||jumperdeduction.com^
 ||jumperproprietaryfifth.com^
 ||junmediadirect.com^
@@ -38284,6 +38301,7 @@ menstennisforums.com#@#.top_ads
 ||locationivanstutter.com^
 ||locationsreverenceaid.com^
 ||lockgranted.com^
+||lockingadmitted.com^
 ||lockingessay.com^
 ||locothet.com^
 ||loddawqst.com^
@@ -39960,6 +39978,7 @@ menstennisforums.com#@#.top_ads
 ||phoossax.net^
 ||phortaub.com^
 ||photographicconstablelanded.com^
+||photographiccreche.com^
 ||phovihopy.pro^
 ||phsism.com^
 ||phudreez.com^
@@ -42346,6 +42365,7 @@ menstennisforums.com#@#.top_ads
 ||uhkdsplo.com^
 ||uhodsplo.com^
 ||uhpdsplo.com^
+||uhqpnhorurueku.com^
 ||uhsmmaq4l2n5.com^
 ||uhxdsplo.com^
 ||uieoogjarimcey.com^
@@ -42542,7 +42562,9 @@ menstennisforums.com#@#.top_ads
 ||vaipsona.com^
 ||vaipsouw.com^
 ||vaivafie.net^
+||vak345.com^
 ||vallegalikty.club^
+||valonghost.xyz^
 ||valuethemarkets.info^
 ||vamprumbasfear.com^
 ||vanderebony.pro^
@@ -42554,6 +42576,7 @@ menstennisforums.com#@#.top_ads
 ||vapourgrievously.com^
 ||variabilitycomprehension.com^
 ||varietyofdisplayformats.com^
+||variouscreativeformats.com^
 ||varybailedascend.com^
 ||varylioness.com^
 ||vasgenerete.site^
@@ -50658,7 +50681,7 @@ menstennisforums.com#@#.top_ads
 ||fleshlight.com/?link=$popup,third-party
 ||fsoft4down.com^$popup
 ||fwmrm.net/ad/$popup
-||get-express-vpn.online^$popup,third-party
+||get-express-vpn.online^$popup
 ||go.etoro.com^*&utm_$popup,third-party
 ||go.streamcomplet.$popup
 ||insideoftech.com^$popup,third-party
@@ -51312,7 +51335,7 @@ menstennisforums.com#@#.top_ads
 ||tb.turbocap.net/a637rw3.js
 ||techhive.com/ads/
 ||technewsworld.com/images/sda/
-||techpowerup.com/thlknzrjbv/
+||techpowerup.com/gjizhgdreg/
 ||techrepublic.com/leadgen/
 ||theage.com.au/assets/europa.
 ||thecenturion.co.za^*/banners/
@@ -51842,6 +51865,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||8boobs.com/images/8boobs.com/banners/
 ||8boobs.com/images/8boobs.com/istripper/
 ||absoluporn.com/code/script/
+||add2home.files.wordpress.com^$domain=hentaigasm.com
 ||adrotic.girlonthenet.com^
 ||adult-sex-games.com/images/promo/
 ||adultasianporn.com/puty3s/
@@ -54324,7 +54348,7 @@ geeksforgeeks.org##[id^="bsa-zone"]
 eatthis.com##[id^="gm_karmaadunit_widget"]
 techadvisor.com##[referrerpolicy="unsafe-url"]
 transfermarkt.co.uk##[referrerpolicy]
-techpowerup.com##[rel="nofollow"] img
+techpowerup.com##[rel*="nofollow"] img
 audioz.download##[src*="/promo/"]
 manganelo.com##[src^="/ads/"]
 ice.hockey##[src^="/images/banners/"]
@@ -54401,6 +54425,7 @@ goal.com##aside[class^="layouts_asideContentCommercial_"]
 dictionary.com,thesaurus.com##aside[id$="728x90"]
 just-dice.com##body > .wrapper > .container:first-child
 psychnewsdaily.com##center
+zegtrends.com##center > .lazyloaded
 python-graph-gallery.com##div > [href^="https://www.datacamp.com"]
 python-graph-gallery.com##div > [href^="https://www.dataquest.io/course/"]
 healthline.com##div.css-0 > div[class]:not([id])
@@ -54568,7 +54593,7 @@ opensubtitles.org##p[style="font-size:130%; font-weight:bold; margin-top:3px; te
 bbc.com##section[data-e2e="advertisement"]
 tempostorm.com##side-banners
 techpowerup.com##span > a[href] > div img
-techpowerup.com##span > a[rel="nofollow"][target="_blаnk"]
+techpowerup.com##span > a[rel*="nofollow"][target*="_blаnk"]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##span[cel_widget_id="MAIN-CARDS-0"]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##span[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##span[class*="widgetId=loom-desktop-brand-footer-slot_hsa-id"]
@@ -54971,6 +54996,7 @@ tabletporn.com##.bottom_pos
 dixyporn.com##.bottom_spot
 bravotube.net##.box-left
 tube8.com##.box-thumbnail-friends
+hentaianimedownloads.com##.bp_detail
 bravotube.net##.brazzers
 xozilla.com##.brazzers-link
 kompoz2.com##.brs-block
@@ -55099,6 +55125,7 @@ online-xxxmovies.com##.middle-spots
 lic.me##.miniplayer
 hotmovs.com##.mjs-closeplay
 tryindianporn.com##.mle
+hentaicore.org##.mob-lock
 hanksgalleries.com##.mob_vids
 gaymovievids.com,verygayboys.com##.mobile-random
 yourdarkdesires.com##.moment
@@ -55270,6 +55297,7 @@ porngames.club##[href^="https://www.porngames.club/friends/out.php"]
 gamcore.com##[src*="/nfr2ie0nd1s9/"]
 tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[src*="blob:"]
 redtube.com##[src^="bLob:"]
+hentaigasm.com##[src^="https://add2home.files.wordpress.com/"]
 porngames.club##[src^="https://wheelwheel.space/"]
 pornhub.com,pornhubthbh7ap3u.onion##[srcdoc]
 pornhub.com,pornhubthbh7ap3u.onion,redtube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[style*="base64"]
@@ -55425,6 +55453,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||apple.com^*/images/ads_$image,domain=apple.com
 @@||apple.com^*/includes/ads
 @@||apple.com^*/video-ad.html
+@@||at.adtech.redventures.io/lib/dist/$script,domain=metacritic.com
 @@||auctionzip.com/cgi-bin/showimage.cgi?
 @@||autotrader.co.uk^*/advert$~third-party
 @@||avclub.com^*/adManager.$script,~third-party
