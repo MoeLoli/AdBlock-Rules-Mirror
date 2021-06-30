@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JXr/NlZ9eZ59QG5WzuzPGg
-! Version: 202106290011
+! Checksum: 7AT89wlyZCjC+BUacFYTLA
+! Version: 202106300011
 ! Title: EasyList
-! Last modified: 29 Jun 2021 00:11 UTC
+! Last modified: 30 Jun 2021 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5686,6 +5686,7 @@
 /modules_ads.
 /momsads.
 /monetization/ads-
+/monetize-show-ads
 /moneyball/ads/*
 /MonsterAd-
 /mont-min.js
@@ -26048,6 +26049,7 @@ _popunder+$popup
 ##.iframead
 ##.iframeadflat
 ##.im-topAds
+##.imadswide
 ##.image-ad-336
 ##.image-advertisement
 ##.image-viewer-ad
@@ -33839,6 +33841,7 @@ menstennisforums.com#@#.top_ads
 ||beefraidmob.com^
 ||beegmove.com^
 ||beegotou.net^
+||beehiveclergyman.com^
 ||beenmeekwarmth.casa^
 ||beforement.club^
 ||beforesfantr.club^
@@ -38446,6 +38449,7 @@ menstennisforums.com#@#.top_ads
 ||mailwithcash.com^
 ||maimeehu.com^
 ||main-ti-cod.com^
+||main-ti-hub.com^
 ||mainadv.com^
 ||mainauko.net^
 ||mainlandrambleinstinct.com^
@@ -39277,6 +39281,7 @@ menstennisforums.com#@#.top_ads
 ||noisysortcasualty.com^
 ||nomadpertexcess.com^
 ||nomicidenti.top^
+||nominalpowerlessunable.com^
 ||nonerr.com^
 ||nonewnews.name^
 ||nonfictionrobustchastise.com^
@@ -39432,6 +39437,7 @@ menstennisforums.com#@#.top_ads
 ||o626b32etkg6.com^
 ||oackoubs.com^
 ||oadaheba.net^
+||oadsouzi.net^
 ||oaffolksy.cam^
 ||oagnatch.com^
 ||oampitsa.com^
@@ -49915,6 +49921,7 @@ menstennisforums.com#@#.top_ads
 ||namecheap.com/graphics/linkus/$third-party
 ||nanobrokers.com/img/banner_
 ||nativly.com/tds/widget?wid=$third-party
+||natureticks.com/images/banners/$third-party
 ||neighbourly.co.nz^$subdocument,domain=stuff.co.nz
 ||neogames-tech.com/resources/genericbanners/
 ||nesgamezone.com/syndicate?
@@ -50692,10 +50699,12 @@ menstennisforums.com#@#.top_ads
 ||lp.titanpoker.com^$popup,third-party
 ||mackeeperaffiliates.com/landings/$popup
 ||paid.outbrain.com/network/redir?$popup,third-party
+||promo.stormgain.com^*&utm_$popup,third-party
 ||record.affiliatelounge.com^$popup,third-party
 ||saucepanstream.com^$popup
 ||serve.prestigecasino.com^$popup,third-party
 ||serve.williamhillcasino.com^$popup,third-party
+||smartblocker.org^*&trackingdomain=$popup
 ||theonlygames.com^$popup
 ||topflownews.com^$popup
 ||torrent-protection.com^*&action=$popup,third-party
@@ -52031,6 +52040,8 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||thehun.net/banners/
 ||tits-guru.com/js/istripper4.js
 ||tnaflix.com/azUhsbtsuzm?
+||toppixxx.com/images/banner-
+||toppixxx.com/images/gotoshop.jpg
 ||tryboobs.com/bf/
 ||vikiporn.com/jsb/
 ||vipergirls.to/clientscript/poptrigger_
@@ -52294,9 +52305,7 @@ hwhills.com###footerbanner
 feedicons.com###footerboard
 imgbox.com###full-page-redirect
 reviewgeek.com###future_Y_R_0_1
-hltv.org###g0_news
 hltv.org###g0_right
-hltv.org###g4_bottom
 colourlovers.com###ga-above-footer
 colourlovers.com###ga-below-header
 9bis.net###gad
@@ -53280,6 +53289,7 @@ disqus.com##.col-promoted
 nycgo.com##.colBBox
 jamendo.com##.col_extra
 iamgujarat.com,indiatimes.com,samayam.com,vijaykarnataka.com##.colombia
+hltv.org##.column-ASdvuasdr123Gazx-box
 2pass.co.uk##.column_right
 arcadebomb.com##.colunit1
 knowyourmeme.com##.combo-wrapper
@@ -53407,7 +53417,6 @@ notebooks.com##.efbleft
 ctvnews.ca##.election-leaderboard
 onmsft.com##.enhanced-text-widget
 technipages.com##.entry-content > div
-hltv.org##.etbx
 mobafire.com##.exhibit-narrow
 mobafire.com##.exhibit-vertical
 miami.com##.expedia-widget
@@ -53714,8 +53723,8 @@ netwerk24.com,wheels24.co.za##.love2meet
 vg247.com##.low-leader-container
 bikeroar.com##.lower-panel
 greatbritishlife.co.uk##.lp_track_vertical2
-hltv.org##.luckbox-firstcol-box
 politifact.com##.m-billboard
+aol.com##.m-jac-ad
 euronews.com##.m-object--is-branded
 tech.hindustantimes.com##.m-to-add
 net-load.com##.m7s-81.m7s
@@ -54366,6 +54375,7 @@ facebook.com##a[aria-label="Advertiser link"]
 bernama.com##a[class^="banner_photo_"]
 probuilds.net##a[class^="dl-blitz-"]
 3dnatives.com##a[data-bid][target="_blank"]
+msn.com##a[href*=".booking.com/"]
 beforeitsnews.com,in5d.com##a[href*=".hop.clickbank.net"]
 limetorrents.info##a[href*=".php"]
 whatismyreferer.com##a[href*="/?offer_id="]
@@ -54399,6 +54409,7 @@ thesearchenginelist.com##a[href^="http://www.kqzyfj.com/"]
 2x4u.de##a[href^="http://www.myfreecams.com/?baf="]
 rpg.net##a[href^="http://www.rpg.net/ads/"]
 tundraheadquarters.com##a[href^="http://www.tkqlhce.com/"]
+msn.com##a[href^="https://amzn.to/"]
 qwant.com##a[href^="https://api.taboola.com/"]
 japantoday.com##a[href^="https://go.injapan.com/"]
 disasterscans.com##a[href^="https://go.onelink.me/"]
@@ -54467,6 +54478,7 @@ goal.com##div[class^="fedex_banner_"]
 keengamer.com##div[class^="gameon-in-"]
 keengamer.com##div[class^="gameon-mpu-"]
 keengamer.com##div[class^="gameon-top-"]
+technologyreview.com##div[class^="headerTemplate__leaderboardRow-"]
 goal.com##div[class^="layout_banner_"]
 productreview.com.au##div[class^="leaderboard_"]
 pcgamer.com,techradar.com,tomsguide.com,tomshardware.com##div[class^="slot-"]
@@ -54832,6 +54844,7 @@ flyingjizz.com###adv_inplayer
 milffox.com###advertising
 pervclips.com###after-adv
 sexyandfunny.com###best-friends
+toppixxx.com###bottom
 eporner.com###btasd
 stileproject.com###dUnderVid
 hentai-img.com###display_image_detail > span
@@ -55441,8 +55454,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|blastingnews.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|go.cnn.com|history.com|keloland.com|radio.com|rd.com|thehealthy.com|wboy.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/widgets/q?$image,third-party
 @@||amazonaws.com^*/sponsorbanners/$image,domain=members.portalbuzz.com
-@@||aolcdn.com^*/adsWrapper.$domain=aol.com|engadget.com|mapquest.com
-@@||aone-soft.com/style/images/ad*.jpg
+@@||aone-soft.com/style/images/ad2.jpg
 @@||api.adinplay.com^*/tag.min.js$script,domain=bigescapegames.com|findcat.io|squadd.io
 @@||api.adnetmedia.lt/api/$~third-party
 @@||api.paymentwall.com^$domain=adguard.com
