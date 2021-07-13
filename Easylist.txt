@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: U8bzD9Mgr6C9m9Yqrw3vpQ
-! Version: 202107120011
+! Checksum: i+BJZVgbKL/hpSxc1xgpgg
+! Version: 202107130011
 ! Title: EasyList
-! Last modified: 12 Jul 2021 00:11 UTC
+! Last modified: 13 Jul 2021 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4021,8 +4021,6 @@
 /banners.*/piclist?
 /banners.cgi?
 /banners.php?id
-/banners/300
-/banners/460
 /banners/468
 /banners/728
 /banners/ad/*
@@ -12378,6 +12376,7 @@ _popunder+$popup
 ###adunit_main_right_top_computer
 ###adunit_video
 ###adunitl
+###adup-sidebar
 ###adv-01
 ###adv-300
 ###adv-Middle2
@@ -17767,6 +17766,7 @@ _popunder+$popup
 ##.AdBar
 ##.AdBody:not(body)
 ##.AdBorder
+##.AdBottomPage
 ##.AdBox
 ##.AdBox160
 ##.AdBox7
@@ -17792,6 +17792,7 @@ _popunder+$popup
 ##.AdInjectContainer
 ##.AdInline
 ##.AdInline_left
+##.AdInsLink
 ##.AdLeft1
 ##.AdLeft2
 ##.AdLeftbarBorderStyle
@@ -21064,6 +21065,7 @@ _popunder+$popup
 ##.adnotice
 ##.adnotification
 ##.adnu
+##.adnz-ad-placeholder
 ##.adocean
 ##.adocean728x90
 ##.adonmedianama
@@ -24053,6 +24055,7 @@ _popunder+$popup
 ##.bsAdvert
 ##.bsa-in-post-ad-125-125
 ##.bsaProContainer
+##.bsaProContainerNew
 ##.bsa_ads
 ##.bsa_it_ad
 ##.bsac
@@ -26777,6 +26780,7 @@ _popunder+$popup
 ##.m-in-content-ad--slot
 ##.m-in-content-ad-row
 ##.m-in-content-ad-row--bonus
+##.m-jac-ad
 ##.m-layout-advertisement
 ##.m-mem--ad
 ##.m-sidebar-ad
@@ -28790,6 +28794,7 @@ _popunder+$popup
 ##.single-ad-wrap
 ##.single-ads
 ##.single-ads-section
+##.single-article-ad
 ##.single-google-ad
 ##.single-item-page-ads
 ##.single-mpu
@@ -29495,6 +29500,7 @@ _popunder+$popup
 ##.teaserAdHeadline
 ##.teaser_adtiles
 ##.teaser_advert_content
+##.templates_ad_placement
 ##.test-adsense
 ##.testAd-holder
 ##.text-ad-300
@@ -29826,6 +29832,7 @@ _popunder+$popup
 ##.topbar-ad-parent
 ##.topbar-ad-unit
 ##.topboardads
+##.topcharts_ad_720
 ##.topcontentadvertisement
 ##.topfootad
 ##.topicDetailsAdRight
@@ -32292,6 +32299,7 @@ amazinglytimedphotos.com#@#.item-container-ad
 itest.5ch.net#@#.js-cardview_ad-320x180
 rollingstone.com#@#.js-sticky-ad
 kseries.me#@#.jw-ad
+vukajlija.com#@#.large-advert
 realgfporn.com#@#.large-right-ad
 everybodysucksbutus.com,usatoday.com#@#.leaderboard-ad
 ajcn.org,annfammed.org#@#.leaderboard-ads
@@ -39107,6 +39115,7 @@ menstennisforums.com#@#.top_ads
 ||nehodyshy.pro^
 ||neictryziiogg.com^
 ||neighbetweenintrude.com^
+||neighbouringmarvel.com^
 ||neighchurch.com^
 ||neitherentrailsrim.com^
 ||nellads.com^
@@ -52111,6 +52120,7 @@ newsmax.com###divArticleSpecialLinks
 newser.com###divRightRail > div:first-child
 abbotsfordgasprices.com,albertagasprices.com,barriegasprices.com,bcgasprices.com,calgarygasprices.com,edmontongasprices.com,gasbuddy.com,halifaxgasprices.com,hamiltongasprices.com,kwgasprices.com,londongasprices.com,manitobagasprices.com,montrealgasprices.com,newbrunswickgasprices.com,newfoundlandgasprices.com,novascotiagasprices.com,nwtgasprices.com,ontariogasprices.com,ottawagasprices.com,peigasprices.com,quebeccitygasprices.com,quebecgasprices.com,reginagasprices.com,saskatoongasprices.com,saskgasprices.com,torontogasprices.com,vancouvergasprices.com,victoriagasprices.com,winnipeggasprices.com###divSky
 rednationonline.ca###dnn_BannerPane
+apkwhale.com###download > div
 designtaxi.com###dt-small-sub-2
 designtaxi.com###dt-small-sub-3
 energyforecastonline.co.za###endorsers
@@ -53937,7 +53947,7 @@ cd1025.com,domainincite.com,europages.co.uk,gamingcloud.com,kpbs.org,phillyvoice
 cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 blbclassic.org##.sponsorZone
-chicagobusiness.com,chronicle.co.zw,duckduckgo.com,fifplay.com,herald.co.zw,motherjones.com,msn.com,timeslive.co.za##.sponsored
+chicagobusiness.com,chronicle.co.zw,duckduckgo.com,fifplay.com,herald.co.zw,libhunt.com,motherjones.com,msn.com,timeslive.co.za##.sponsored
 phillyvoice.com##.sponsored-article-widget
 washingtontimes.com##.sponsored-heading
 armageddonexpo.com,audiforums.com,ferrarichat.com,jaguarforums.com,pypi.org,thebugle.co.za,waamradio.com,wbal.com##.sponsors
