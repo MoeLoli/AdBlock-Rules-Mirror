@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107130010
+! Version: 202107131419
 ! Title: EasyPrivacy
-! Last modified: 13 Jul 2021 00:10 UTC
+! Last modified: 13 Jul 2021 14:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8530,7 +8530,6 @@ _mongo_stats/
 ||webeyez.com^$third-party
 ||webflowmetrics.com^$third-party
 ||webforensics.co.uk^$third-party
-||webgains.com^$third-party
 ||webglstats.com^$third-party
 ||webiqonline.com^$third-party
 ||webleads-tracker.com^$third-party
@@ -12564,11 +12563,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vs4.com/impr.php?
 ||vtnlog-*.elb.amazonaws.com^
 ||vuukle.com/bq-publish?
+||vuukle.com/getGeo
 ||vvhp.net/read/view.gif
 ||vwdealerdigital.com/cdn/sd.js
 ||w3track.com/newtrk/$third-party
 ||wallkit.net^*/user/event
 ||wantlive.com/pixel/
+||wco.crownpeak.com^
 ||weather.ca/counter.gif?
 ||web-soft.in/counters/
 ||web1.51.la^
@@ -15016,6 +15017,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nbcnews.com^*/analytics.js
 ||nbcudigitaladops.com/hosted/js/*_com.js
 ||nbcudigitaladops.com/hosted/js/*_com_header.js
+||ncbi.nlm.nih.gov/core/pinger
 ||ncsoft.com/tracker.js
 ||ndtv.com/Status24x7.lv?
 ||neatorama.com/story/view/*.gif?hash
@@ -26552,6 +26554,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 ||altervista.org/js_tags/contatore.js
 ||altervista.org/stats/
 ||altervista.org^*/tb_hits_
+||analytics.laregione.ch^
 ||analytics.tio.ch^
 ||analytics.traderlink.com^
 ||as.payback.it^
@@ -26573,6 +26576,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 ||joka.it/inquiero/isapi/csf.dll?
 ||la7.it/js-live/nielsen1.js
 ||lalaziosiamonoi.it/pixel
+||laregione.ch/ext/av.php?
 ||leggo.it/index.php?$image
 ||libero.it//js/comscore/
 ||libero.it/cgi-bin/ajaxtrace?
