@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: R2PkBolSwKZj6NQWHW8FXw
-! Version: 202107150011
+! Checksum: hL3wYtBosYNOsssJW4sFrw
+! Version: 202107160011
 ! Title: EasyList
-! Last modified: 15 Jul 2021 00:11 UTC
+! Last modified: 16 Jul 2021 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7302,7 +7302,7 @@
 ://adcl.$domain=~adcl.co.nz|~adcl.com|~adcl.screenconnect.com
 ://adn.*/zone/$subdocument
 ://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.lapalingo.com|~ads.lordlucky.com|~ads.magalu.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
-://adv.$domain=~adv.asahi.com|~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.ec|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
+://adv.$domain=~adv.asahi.com|~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
 ://affiliates.$third-party
 ://affiliates2.$third-party
@@ -12573,6 +12573,7 @@ _popunder+$popup
 ###advert-mpu
 ###advert-placeholder-post-content-image-1
 ###advert-posterad
+###advert-rectangle
 ###advert-right
 ###advert-right-not-home
 ###advert-sky
@@ -18919,6 +18920,7 @@ _popunder+$popup
 ##.ad-insert
 ##.ad-inserter
 ##.ad-inserter-widget
+##.ad-inside
 ##.ad-integrated-display
 ##.ad-internal
 ##.ad-interruptor
@@ -19350,6 +19352,7 @@ _popunder+$popup
 ##.ad-topleader
 ##.ad-topper
 ##.ad-topright
+##.ad-topteaser
 ##.ad-total
 ##.ad-total1
 ##.ad-tower
@@ -20456,6 +20459,7 @@ _popunder+$popup
 ##.ad_image_container
 ##.ad_img
 ##.ad_imgae_150
+##.ad_in_article
 ##.ad_in_column
 ##.ad_in_head
 ##.ad_index02
@@ -28913,6 +28917,7 @@ _popunder+$popup
 ##.slideAd
 ##.slide_ad
 ##.slidead
+##.slider-item-ad
 ##.slider-right-advertisement-banner
 ##.sliderad
 ##.slideshow-ad
@@ -30157,6 +30162,8 @@ _popunder+$popup
 ##.wa_adsbottom
 ##.wahAd
 ##.wahAdRight
+##.wall-ads-control
+##.wall-ads-right
 ##.wallAd
 ##.wall_ad
 ##.wall_ad_hd
@@ -31312,6 +31319,7 @@ _popunder+$popup
 ##div[class^="largeRectangleAd_"]
 ##div[class^="lifeOnwerAd"]
 ##div[class^="local-feed-banner-ads"]
+##div[class^="pane-adsense-managed-"]
 ##div[class^="pane-google-admanager-"]
 ##div[class^="proadszone-"]
 ##div[class^="sp-adslot-"]
@@ -37786,6 +37794,7 @@ menstennisforums.com#@#.top_ads
 ||jeehathu.com^
 ||jeejujou.net^
 ||jeerszitstoke.com^
+||jehobsee.com^
 ||jeinvegpool.com^
 ||jeisl.com^
 ||jelabboody.com^
@@ -39272,6 +39281,7 @@ menstennisforums.com#@#.top_ads
 ||niholaev.com^
 ||nikkiexxxads.com^
 ||niledestratherg.club^
+||nilreels.com^
 ||niltibse.net^
 ||nimelytranst.club^
 ||nimhuemark.com^
@@ -41418,6 +41428,7 @@ menstennisforums.com#@#.top_ads
 ||simpleprogr.club^
 ||simpletraffic.co^
 ||simplyjmp.com^
+||simpunok.com^
 ||simrubwan.com^
 ||sinaunrelean.info^
 ||sincerelypractically.com^
@@ -42175,6 +42186,7 @@ menstennisforums.com#@#.top_ads
 ||tonexcitiessa.club^
 ||tonightsuppressedgrocery.com^
 ||toodlepork.com^
+||tookawie.com^
 ||top-performance.best^
 ||top-performance.club^
 ||topbetfast.com^
@@ -42892,6 +42904,7 @@ menstennisforums.com#@#.top_ads
 ||warumbistdusoarm.space^
 ||washedinmate.com^
 ||wasp-182b.com
+||waspaortascene.com^
 ||wasprenovate.com^
 ||wastedcooperate.com^
 ||wastesshimssat.world^
@@ -54563,6 +54576,7 @@ yahoo.com##.gemini-ad-feedback
 yahoo.com##.item-beacon
 yahoo.com##.sys_shopleguide
 mail.yahoo.com##[data-test-id^="pencil-ad"]
+mail.yahoo.com##[rel="noreferrer"][data-test-id]
 yahoo.com##div[class*="ads-"]
 yahoo.com##div[class*="gemini-ad"]
 yahoo.com##div[data-beacon] > div[class*="streamBoxShadow"]
