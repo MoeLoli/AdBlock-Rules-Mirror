@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: u4zKl8JGnGhzKMYMQOrpRQ
-! Version: 202107180011
+! Checksum: y3HoIEXz4q+fH9qMXu2fxw
+! Version: 202107190011
 ! Title: EasyList
-! Last modified: 18 Jul 2021 00:11 UTC
+! Last modified: 19 Jul 2021 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17735,6 +17735,7 @@ _popunder+$popup
 ##.ADmid
 ##.ADouter_div
 ##.ADwidget
+##.ATF_wrapper
 ##.A__smallSuperbannerAdvert-main
 ##.AcceptableTextAds
 ##.Accordion_ad
@@ -17779,6 +17780,7 @@ _popunder+$popup
 ##.AdBoxStyle
 ##.AdBoxStyleHome
 ##.AdCaption
+##.AdCenter
 ##.AdCommercial
 ##.AdContainer-Banner
 ##.AdContainer-Sidebar
@@ -19866,6 +19868,8 @@ _popunder+$popup
 ##.adHeadline
 ##.adHeadlineSummary
 ##.adHed
+##.adHeight200
+##.adHeight313
 ##.adHolder
 ##.adHolder2
 ##.adHolderStory
@@ -21113,6 +21117,7 @@ _popunder+$popup
 ##.adpic
 ##.adplace
 ##.adplace_center
+##.adplaceholder
 ##.adplaceholder-top
 ##.adplacement
 ##.adplate-background
@@ -23345,6 +23350,7 @@ _popunder+$popup
 ##.atcode_wp_bnn
 ##.atf-ad-medRect
 ##.atf-ad-medrec
+##.atf-wrapper
 ##.atfAds
 ##.atf_ad300
 ##.atf_ad_box
@@ -24583,6 +24589,7 @@ _popunder+$popup
 ##.contentadstartpage
 ##.contentadstop1
 ##.contentadvside
+##.contentbox_ad
 ##.contentleftad
 ##.contentpage_searchad
 ##.contents-ads-bottom-left
@@ -24757,6 +24764,7 @@ _popunder+$popup
 ##.dfp-ad-container
 ##.dfp-ad-full
 ##.dfp-ad-hideempty
+##.dfp-ad-midbreaker-wrap
 ##.dfp-ad-placeholder
 ##.dfp-ad-rect
 ##.dfp-ad-tags
@@ -24784,7 +24792,9 @@ _popunder+$popup
 ##.dfp-top1-container
 ##.dfp-wrapper
 ##.dfpAd
+##.dfpAds
 ##.dfpAdvert
+##.dfp_ATF_wrapper
 ##.dfp_ad
 ##.dfp_ad_block
 ##.dfp_ad_caption
@@ -26051,6 +26061,7 @@ _popunder+$popup
 ##.hor-ad
 ##.hor_ad
 ##.hori-play-page-adver
+##.horiAd
 ##.horisont_ads
 ##.horiz_adspace
 ##.horizontal-ad
@@ -27389,6 +27400,7 @@ _popunder+$popup
 ##.newTopAdContainer
 ##.new_ad1
 ##.new_ad_wrapper_all
+##.new_ads_unit
 ##.newad
 ##.newad1
 ##.newadsky-wrapper
@@ -28224,6 +28236,7 @@ _popunder+$popup
 ##.rhs-advert-container
 ##.rhs-advert-link
 ##.rhs-advert-title
+##.rhs-mrec-wrapper
 ##.rhs_ad_title
 ##.rhs_ads
 ##.rhsad
@@ -28433,7 +28446,9 @@ _popunder+$popup
 ##.rtmad
 ##.rtmm_right_ad
 ##.runner-ad
+##.rwSideAd
 ##.rw_ad
+##.rwdArticleOuterAdBlock
 ##.s-ad
 ##.s-ads
 ##.s-ads-metrics
@@ -29463,6 +29478,7 @@ _popunder+$popup
 ##.syAd
 ##.syHdrBnrAd
 ##.sykscraper-ad
+##.symphony_ad
 ##.syndicatedAds
 ##.szoAdBox
 ##.szoSponsoredPost
@@ -42495,6 +42511,7 @@ menstennisforums.com#@#.top_ads
 ||upheavesy.club^
 ||uponelectabuzzor.club^
 ||upsettingcrescentwig.com^
+||upsettommyvomit.com^
 ||upsghpnqjoo.com^
 ||upsidebaitpalm.com^
 ||upsidecopiedcraft.com^
@@ -44089,6 +44106,7 @@ menstennisforums.com#@#.top_ads
 ||adtear.com^$third-party
 ||adtecc.com^$third-party
 ||adtech.de^$third-party
+||adtechium.com^$third-party
 ||adtechus.com^$third-party
 ||adtegrity.net^$third-party
 ||adtelligent.com^$third-party
@@ -44683,6 +44701,7 @@ menstennisforums.com#@#.top_ads
 ||charltonmedia.com^$third-party
 ||cibleclick.com^$third-party
 ||cinarra.com^$third-party
+||citrusad.com^$third-party
 ||city-ads.de^$third-party
 ||clash-media.com^$third-party
 ||cleafs.com^$third-party
@@ -52989,7 +53008,7 @@ thepointsguy.com##.beam-card-feature
 beckershospitalreview.com##.becker_doubleclick
 wgbh.org##.becomeSponsor
 ssbcrack.com##.below-header
-greenwichtime.com,mysanantonio.com,sfgate.com##.belowMastheadWrapper
+greenwichtime.com,mysanantonio.com,newstimes.com,sfchronicle.com,sfgate.com##.belowMastheadWrapper
 vectorportal.com##.benner
 whoscored.com##.best-slip-button
 football365.com##.bet-link
@@ -53254,6 +53273,7 @@ kickasstorrents.to##.dssdffds
 designtaxi.com##.dt_rcjs
 digitaltrends.com##.dtads-slot
 googleping.com##.dtext
+indiatimes.com##.dunia-slider
 yts.mx##.durs-bordered
 daniweb.com##.dw-inject-bsa
 mygaming.co.za##.dw_focus_videos
@@ -53620,6 +53640,7 @@ allnurses.com##.medrec
 techrepublic.com##.medusa_right-rail
 2ip.me##.menu_banner
 eawaz.com##.metaslider
+moneycontrol.com##.mf_radarad
 palestinechronicle.com##.mh-header-widget-2
 investing.com##.midHeader
 newsday.com##.midPg
@@ -53703,6 +53724,7 @@ military.com##.page__top
 nzcity.co.nz##.page_skyscraper
 livejournal.com##.pagewide-wrapper
 optimum.net##.paidResult
+timesofindia.indiatimes.com##.paisa-wrapper
 axn-asia.com,onetvasia.com##.pane-dart-dart-tag-300x250-rectangle
 ncronline.org##.pane-ncr-blocks-home-first-ads
 ncronline.org##.pane-ncr-blocks-home-second-ads
@@ -53848,6 +53870,7 @@ al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.
 reviewparking.com##.revie-widget
 sociologyguide.com##.rgt_banners
 siteslike.com##.rif
+africanews.com##.right-legend
 jta.org##.right-rail-container
 huffpost.com##.right-rail-placeholder
 jpost.com##.right-side-banner
@@ -54266,9 +54289,9 @@ bernama.com##a[class^="banner_photo_"]
 probuilds.net##a[class^="dl-blitz-"]
 3dnatives.com##a[data-bid][target="_blank"]
 msn.com##a[href*=".booking.com/"]
+techpowerup.com##a[href*=".hmm"][target*="_blank"]
 beforeitsnews.com,in5d.com##a[href*=".hop.clickbank.net"]
 limetorrents.info##a[href*=".php"]
-techpowerup.com##a[href*=".thy"][target*="_blank"]
 whatismyreferer.com##a[href*="/?offer_id="]
 itweb.co.za##a[href*="/adclick.php?"]
 igorslab.de,landline.media,sundayworld.co.za,theroanokestar.com,visualcapitalist.com##a[href*="/linkout/"]
@@ -54346,6 +54369,7 @@ issuu.com##div[class*="adPlacement"]
 issuu.com##div[class*="adSkyscraper"]
 keengamer.com##div[class*="gameon-above-"]
 topgear.com##div[class^="AdContainer-"]
+usnews.com##div[class^="Ad__Container-"]
 barrons.com##div[class^="BarronsTheme--adWrapper"]
 apnews.com##div[class^="Component-adTitle-"]
 apnews.com##div[class^="Component-placeholderWrapper-"]
@@ -54363,6 +54387,7 @@ topgear.com##div[class^="TopContainer-"]
 fodors.com##div[class^="ad-placeholder"]
 barandbench.com##div[class^="ad-service-"]
 barandbench.com##div[class^="ad-slot"]
+usnews.com##div[class^="ad-spacer_"]
 kijiji.ca##div[class^="adChoices-"]
 goodrx.com##div[class^="adContainer"]
 goodrx.com##div[class^="adWrapper-"]
@@ -55209,7 +55234,6 @@ pornhub.com,pornhubthbh7ap3u.onion,redtube.com,tube8.com,tube8.es,tube8.fr,xvide
 hentai-top100.com##[href^="http://sexmaxx.com"]
 tophentai.biz##[href^="http://tm-offers.gamingadult.com/"]
 hentai-top100.com##[href^="http://www.grainesdecannabis.fr/"]
-rule34.xxx##[href^="https://kanako.store/products/"]
 masalaseen.net##[href^="https://rajabets.com/"]
 porngames.club##[href^="https://www.porngames.club/friends/out.php"]
 gamcore.com##[src*="/nfr2ie0nd1s9/"]
